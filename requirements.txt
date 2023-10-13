@@ -1,0 +1,8 @@
+ streamlit
+streamlit_option_menu
+mysql.connector
+easyocr
+ matplotlib.pyplot
+cv2
+numpy
+pandas
